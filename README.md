@@ -241,4 +241,4 @@ This repository serves as the official landing page for Kigo Video Converter. Th
 **Get the most recent version of Kigo Video Converter today!**
 
 ---
-**Last updated:** 2026-09-30 22:42:00 UTC
+**Last updated:** 2026-10-01 01:39:29 UTC
